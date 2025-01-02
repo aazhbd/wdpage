@@ -1,0 +1,12 @@
+.center-fit {
+                max-width: 60%;
+                max-height: 60vh;
+                margin: auto;
+        }
+        .center-screen {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                text-align: center;
+                min-height: 80vh;
+        }
