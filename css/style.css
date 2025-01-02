@@ -5,6 +5,8 @@
 }
 
 .center-fit {
+        min-height: 400px;
+        min-width: 600px;
         max-width: 60%;
         max-height: 60vh;
         margin: auto;
